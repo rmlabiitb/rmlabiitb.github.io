@@ -1,0 +1,25 @@
+- title: "Introduction"
+  href: "/Introduction/"
+
+- title: "People"
+  href: "/People/"
+  subcategories:
+    - subtitle: "Current"
+      subhref: "/People/Current/"
+    - subtitle: "Alumini"
+      subhref: "/People/Alumini/"
+
+- title: "Lab Facilities"
+  href: "/Lab Facilities/"
+
+- title: "Publications"
+  href: "/Publications/"
+
+- title: "Announcement"
+  href: "/Announcement/"
+
+- title: "Gallery"
+  href: "/Gallery/"
+  
+- title: "Contact"
+  href: "/Contact/"
