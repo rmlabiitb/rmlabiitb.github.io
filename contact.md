@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact/
+permalink: /Contact/
 ---
 
 For any query contact : <br>

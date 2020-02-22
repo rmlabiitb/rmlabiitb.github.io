@@ -9,7 +9,7 @@ We have highly enthusiastic team who are working on Science, Research and Develo
 <br/>
 <h1> Lab Coordinator </h1>
 
-{% include image.html url="/images/2.png" width= 300 align="left" %}
+{% include image.html url="/images/2.PNG" width= 300 align="left" %}
 Name: Prof. K.P. Karunakaran <br/>
 Position: Institute Chair Professor & RM Lab Coordinator <br/>
 Email ID: Karuna@iitb.ac.in  <br/>
@@ -117,7 +117,7 @@ Research Interest : Robotics, CNC, Automation, Additive Manufacturing <br/>
 Email ID: 184107001@iitb.ac.in 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-{% include image.html url="/images/Raj.jpg" width=300 align="left" %}
+{% include image.html url="/images/Raj.JPG" width=300 align="left" %}
 Name: Rajendra Hodgir <br/>
 Position: Research Scholar (PhD) <br/>
 Thesis Title : Ice 3D Printing <br/>
@@ -125,7 +125,7 @@ Research Interest : Additive Manufacturing, Rapid Casting, Rapid Foam Foundry <b
 Email ID: rajendra.hodgir@iitb.ac.in 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-{% include image.html url="/images/Avinash.jpg" width=300 align="left" %}
+{% include image.html url="/images/Avinash.JPG" width=300 align="left" %}
 Name: Avinash Kumar Mehta <br/>
 Position: Research Scholar (PhD) <br/>
 Thesis Title : Plasma Electron beam based Additive Manufacturing <br/>
@@ -166,7 +166,7 @@ Research Interest : Additive Manufacturing, CAD design, Bio-Medical devices  <br
 Email ID: ymymittal1@iitb.ac.in 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-{% include image.html url="/images/Ganesan.jpg" width=300 align="left" %}
+{% include image.html url="/images/Ganesan.JPG" width=300 align="left" %}
 Name: Ganeshan Guna<br/>
 Position: Research Scholar (PhD)  <br/>
 Thesis Title : Hybrid Layer Manufacturing of Functionally Gradient Materials<br/>
@@ -174,7 +174,7 @@ Research Interest : Additive Manufacturing, Micro/Nano Manufacturing  <br/>
 Email ID: ganesan.g@iitb.ac.in 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-{% include image.html url="/images/yuga.jpg" width=300 align="left" %}
+{% include image.html url="/images/Yuga.JPG" width=300 align="left" %}
 Name: Yugandhara Bhosale<br/>
 Position: Research Scholar (PhD) <br/>
 Thesis Title : Octo-copter Drone for Organ Transport<br/>
@@ -226,13 +226,13 @@ Email ID: ymymittal1@iitb.ac.in
 
 <h1> Project Staff </h1>
 
-{% include image.html url="/images/ankit.png" width=300 align="left" %}
+{% include image.html url="/images/Ankit.png" width=300 align="left" %}
 Name: Ankit Narkhede<br/>
 Position: Project Staff <br/>
 Email ID: ankit.narkhede56@gmail.com 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-{% include image.html url="/images/nimish.jpg" width=300 align="left" %}
+{% include image.html url="/images/Nimish.jpg" width=300 align="left" %}
 Name: Nimish Shelar<br/>
 Position: Project Staff <br/>
 Email ID: nimish.shelar333@gmail.com 

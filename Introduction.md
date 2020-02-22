@@ -13,7 +13,7 @@ solutions to various manufacturing industries. Over the years, we have worked wi
 <br/>
 
 <h1> Lab Coordinator </h1>
-{% include image.html url="/images/2.png" width=300 align="left" %}
+{% include image.html url="/images/2.PNG" width=300 align="left" %}
 
 <p align ="justify">Prof. K.P. Karunakaran is presently a Chair Professor in Mechanical Engineering Department, IIT Bombay. He obtained B.E. Honors in Mechanical Engineering from Anna Univeristy in 1984, M.Tech in Aircraft Production Engineering from IIT Madras in 1988 and Ph.D. from IIT Kanpur in 1994. He worked in Hindustan Aeronautics Limited for about 9 years (1984-92). He has been teaching and researching in IIT Bombay since 1994 in the areas of Rapid Manufacturing, CNC & Automation and Computer Graphics. He, a Humboldt Fellow, was a consultatnt to Daimler Benz in Summer 2000. He has been a visiting professor in France since 2005. OptiLOM, HLM and SOM are his RP Products. His passions are Rotary-Wing Micro-Aerial Vehicles (RW-MAVs) and helocopters without tail rotors.</p>
 

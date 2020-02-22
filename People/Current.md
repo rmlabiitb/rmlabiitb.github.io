@@ -1,7 +1,7 @@
 ---
 layout: page
 <!-- title: Current -->
-permalink: /People/Current
+permalink: /People/Current/
 ---
 
 We have highly enthusiastic team who are working on Science, Research and Development in the area of Additive Manufacturing. 
