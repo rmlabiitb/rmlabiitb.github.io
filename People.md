@@ -145,9 +145,9 @@ Email ID: saimabbas@iitb.ac.in
 {% include image.html url="/images/Sud.jpg" width=300 align="left" %}
 Name: Sudhanshu Dubey <br/>
 Position: Research Scholar (PhD) <br/>
-Thesis Title : Sacrificial materials in Additive Manufacturing <br/>
-Research Interest : Additive Manufacturing<br/>
-Email ID: saimabbas@iitb.ac.in  
+Thesis Title : Electron Beam Laminated Manufacturing<br/>
+Research Interest : Additive Manufacturing, Electron Beam Additive manufacturing, robotics <br/>
+Email ID: sudhanshud@iitb.ac.in  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 {% include image.html url="/images/vivek.png" width=300 align="left" %}
@@ -205,7 +205,7 @@ Email ID: mitesh.malaiya@iitb.ac.in
 {% include image.html url="/images/Rahul.jpg" width=300 align="left" %}
 Name: Rahul Dalal<br/>
 Position: M. Tech Scholar <br/>
-Thesis Title: Ice 3D Printing
+Thesis Title: Ice 3D Printing <br/>
 Research Interest : Rapid Manufacturing, CNC Technology & Automation,
 Computer Graphics for CAM Applications, CAD/CAM, Algorithms for CNC
 machining , Additive Manufacturing, 3D Printing  <br/>
