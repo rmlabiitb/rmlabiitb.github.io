@@ -220,7 +220,7 @@ Name: Athul Arun Nambolan<br/>
 Position: Dual Degree Student <br/>
 Thesis Title : Electron Beam Additive Manufacturing<br/>
 Research Interest : Electron and Laser based material processing, Material Development for Additive Manufacturing, CAM/CAE, Industry 4.0  <br/>
-Email ID: ymymittal1@iitb.ac.in 
+Email ID: athularun3000@gmail.com 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
