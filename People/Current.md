@@ -9,7 +9,7 @@ We have highly enthusiastic team who are working on Science, Research and Develo
 <br/>
 <h1> Lab Coordinator </h1>
 
-{% include image.html url= "/images/2.PNG" width= 300 align="left" %}
+{% include image.html url= "/images/Guide.jpg" width= 300 align="left" %}
 Name: Prof. K.P. Karunakaran <br/>
 Position: Institute Chair Professor & RM Lab Coordinator <br/>
 Email ID: Karuna@iitb.ac.in  <br/>
