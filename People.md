@@ -62,7 +62,7 @@ Email ID: ashik.dd1@iitb.ac.in
 {% include image.html url="/images/Yogesh.jpg" width=300 align="left" %}
 Name: Yogesh Patil<br/>
 Position: Project Research Associate <br/>
-Research Interest : Additive Manufacturing, Automation, MAV, CNC Technology, Robotis <br/>
+Research Interest : Additive Manufacturing, Automation, MAV, CNC Technology, Robotics <br/>
 Email ID: patil.yogesh0808@iitb.ac.in  
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
