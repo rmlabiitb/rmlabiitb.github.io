@@ -167,7 +167,7 @@ Email ID: ymymittal1@iitb.ac.in
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 {% include image.html url="/images/Ganesan.JPG" width=300 align="left" %}
-Name: Ganeshan Guna<br/>
+Name: Ganesan G<br/>
 Position: Research Scholar (PhD)  <br/>
 Thesis Title : Hybrid Layer Manufacturing of Functionally Gradient Materials<br/>
 Research Interest : Additive Manufacturing, Micro/Nano Manufacturing  <br/>
